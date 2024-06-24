@@ -30,7 +30,7 @@ ICLR 2020 [[Paper]](https://arxiv.org/pdf/1912.02164) [[Github]](https://github.
 **Tractable Control for Autoregressive Language Generation**\
 *Honghua Zhang, Meihua Dang, Nanyun Peng, Guy Van den Broeck*\
 ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.com/UCLA-StarAI/GeLaTo)\
-15 Nov 2024
+15 Nov 2023
 
 
 ## Conditional Language Models
