@@ -24,6 +24,15 @@ NAACL 2021 [[Paper]](https://arxiv.org/pdf/2202.11705) [[Github]](https://github
 ICLR 2020 [[Paper]](https://arxiv.org/pdf/1912.02164) [[Github]](https://github.com/uber-research/PPLM)\
 3 Mar 2020
 
+**Aligning Large Language Models with Representation Editing: A Control Perspective**\
+*Lingkai Kong, Haorui Wang, Wenhao Mu, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang*\
+Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2406.05954)\
+11 June 2024
+
+**BWArea Model: Learning World Model, Inverse Dynamics, and Policy for Controllable Language Generation**\
+*Chengxing Jia, Pengyuan Wang, Ziniu Li, Yi-Chen Li, Zhilong Zhang, Nan Tang, Yang Yu*\
+Arxiv 2024 [[Paper]](https://arxiv.org/pdf/2405.17039)\
+27 May 2024
 
 ## Tractable Probabilistic Models
 
