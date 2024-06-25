@@ -1,7 +1,18 @@
 # Awesome-LLM-controlled-constrained-generation
-Awesome-LLM-controlled-constrained-generation
+<!-- Awesome-LLM-controlled-constrained-generation -->
+
+\
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 
+
+This repo aims to record advanced papers of controllable and constrained generation in LLMs.
+
+We strongly encourage the researchers that want to promote their fantastic work to this area to make pull request to update their paper's information!
+
+--- 
 
 # Review 
 
