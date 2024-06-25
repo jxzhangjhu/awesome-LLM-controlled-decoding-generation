@@ -39,12 +39,12 @@ ICML 2024. [[Paper]](https://arxiv.org/abs/2402.08679) [[Github]](https://github
 NeurIPS 2022 [[Paper]](https://arxiv.org/pdf/2202.11705) [[Github]](https://github.com/qkaren/COLD_decoding) 
 <!-- 13 Oct 2022 -->
 
-**FUDGE: Controlled Text Generation With Future Discriminators**\
+- **FUDGE: Controlled Text Generation With Future Discriminators**\
 *Kevin Yang, Dan Klein*\
 NAACL 2021 [[Paper]](https://arxiv.org/pdf/2202.11705) [[Github]](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) 
 <!-- 15 Aug 2021 -->
 
-**Plug and Play Language Models: A Simple Approach to Controlled Text Generation**\
+- **Plug and Play Language Models: A Simple Approach to Controlled Text Generation**\
 *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu*\
 ICLR 2020 [[Paper]](https://arxiv.org/pdf/1912.02164) [[Github]](https://github.com/uber-research/PPLM) 
 <!-- 3 Mar 2020 -->
