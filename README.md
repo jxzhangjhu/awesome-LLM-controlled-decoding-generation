@@ -1,4 +1,4 @@
-# Awesome-LLM-controlled-constrained-generation
+# Awesome-LLM-Controlled-Constrained-Generation
 <!-- Awesome-LLM-controlled-constrained-generation -->
 
 \
@@ -16,7 +16,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Review 
 
-**Controllable Neural Text Generation** \
+- **Controllable Neural Text Generation** \
 *Lilian Weng* \
 Lil'Log, 2021. [[Link]](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/)
 
@@ -164,7 +164,7 @@ March 2024.  [[Link]](https://krismuniz.com/posts/constrained-decoding)
 <!-- code generation  -->
 
 
-**Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker** \
+- **Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker** \
 *Sukmin Cho, Soyeong Jeong, Jeongyeon Seo, Jong C. Park* \
 ACL 2023. [[Paper]](https://arxiv.org/abs/2305.13729) [[Github]](https://github.com/zomss/co-prompt)
 
