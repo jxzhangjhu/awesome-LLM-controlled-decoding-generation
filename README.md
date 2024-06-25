@@ -66,7 +66,7 @@ ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.
 
 **Evaluating, Understanding, and Improving Constrained Text Generation for Large Language Models** \
 *Xiang Chen, Xiaojun Wan* \
-Arxiv 2023. [[Paper](https://arxiv.org/abs/2310.16343)] 
+Arxiv 2023. [[Paper](https://arxiv.org/abs/2310.16343)] \
 25 Oct 2023 
 
 **"We Need Structured Output": Towards User-centered Constraints on Large Language Model Output** \
