@@ -20,7 +20,7 @@ ICML 2024. [[Paper]](https://arxiv.org/pdf/2310.17022)
 
 **Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models** \
 *Zhanhui Zhou, Zhixuan Liu, Jie Liu, Zhichen Dong, Chao Yang, Yu Qiao* \
-arXiv 2024 [[Paper](https://arxiv.org/abs/2405.19262)] [[Github](https://github.com/zhziszz/weak-to-strong-search)] 
+arXiv 2024 [[Paper]](https://arxiv.org/abs/2405.19262) [[Github]](https://github.com/zhziszz/weak-to-strong-search)
 <!-- 29 May 2024  -->
 <!-- greedy search and test-time alignment -->
 
@@ -28,12 +28,12 @@ arXiv 2024 [[Paper](https://arxiv.org/abs/2405.19262)] [[Github](https://github.
 
 **BWArea Model: Learning World Model, Inverse Dynamics, and Policy for Controllable Language Generation**\
 *Chengxing Jia, Pengyuan Wang, Ziniu Li, Yi-Chen Li, Zhilong Zhang, Nan Tang, Yang Yu*\
-Arxiv 2024. [[Paper]](https://arxiv.org/pdf/2405.17039) 
+Arxiv 2024. [[Paper]](https://arxiv.org/pdf/2405.17039)
 <!-- 27 May 2024 -->
 
 **COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability** \
 *Xingang Guo, Fangxu Yu, Huan Zhang, Lianhui Qin, Bin Hu* \
-ICML 2024. [[Paper](https://arxiv.org/abs/2402.08679)] [[Github](https://github.com/yu-fangxu/cold-attack)] 
+ICML 2024. [[Paper]](https://arxiv.org/abs/2402.08679) [[Github]](https://github.com/yu-fangxu/cold-attack) 
 <!-- 13 Feb 2024  -->
 
 **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**\
@@ -62,16 +62,39 @@ ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.
 
 ## Conditional Language Models
 
+
+## NeuroLogic Decoding 
+
+
+**NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge** \
+*Phillip Howard, Junlin Wang, Vasudev Lal, Gadi Singer, Yejin Choi, Swabha Swayamdipta* \
+NACCL 2024. [[Paper]](https://arxiv.org/abs/2305.04978) [[Github]](https://github.com/intellabs/multimodal_cognitive_ai)
+
+**NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints** \
+*Ximing Lu, Peter West, Rowan Zellers, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi* \
+NAACL 2021. [[Paper]](https://arxiv.org/abs/2010.12884) [[Github]](https://github.com/GXimingLu/neurologic_decoding)
+
+
+
+
+
 ## Evaluation and Understanding 
 
 **Evaluating, Understanding, and Improving Constrained Text Generation for Large Language Models** \
 *Xiang Chen, Xiaojun Wan* \
-Arxiv 2023. [[Paper](https://arxiv.org/abs/2310.16343)] 
+Arxiv 2023. [[Paper]](https://arxiv.org/abs/2310.16343)
 <!-- 25 Oct 2023  -->
 
 **"We Need Structured Output": Towards User-centered Constraints on Large Language Model Output** \
 *Michael Xieyang Liu, Frederick Liu, Alexander J. Fiannaca, Terry Koo, Lucas Dixon, Michael Terry, Carrie J. Cai* \
-CHI EA 2024. [[Paper](https://arxiv.org/abs/2404.07362)] 
+CHI EA 2024. [[Paper]](https://arxiv.org/abs/2404.07362)
 <!-- 10 Apr 2024  -->
 
 
+## Application 
+
+**JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models** \
+*Jillian Fisher, Ximing Lu, Jaehun Jung, Liwei Jiang, Zaid Harchaoui, Yejin Choi* \
+NAACL 2024. [[Paper]](https://arxiv.org/abs/2402.08761) [[Github]](https://github.com/jfisher52/jamdecoding)
+<!-- unsupervised  -->
+ 
