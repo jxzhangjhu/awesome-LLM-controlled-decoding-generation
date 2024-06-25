@@ -12,6 +12,20 @@ This repo aims to record advanced papers of controllable and constrained generat
 
 We strongly encourage the researchers that want to promote their fantastic work to this area to make pull request to update their paper's information!
 
+
+## Contents
+
+- [Review](#review)
+- [Papers](#papers)
+  - [Controlled Decoding](#controlled-decoding)
+  - [Tractable Probabilistic Models](#tractable-probabilistic-models)
+  - [Instructions Tuning](#instruction-tuning)
+  - [Non-autoregressive Language Model](#Non-autoregressive-Language-Model)
+  - [NeuroLogic Decoding](#NeuroLogic-Decoding)
+  - [Evaluation and Understanding](#Evaluation-and-Understanding)
+  - [Application](#application)
+
+
 --- 
 
 # Review 
@@ -23,7 +37,7 @@ Lil'Log, 2021. [[Link]](https://lilianweng.github.io/posts/2021-01-02-controllab
 
 # Papers
 
-## Controlled Decoding & Generation
+## Controlled Decoding
 
 
 - **Aligning Large Language Models with Representation Editing: A Control Perspective**\
@@ -101,10 +115,10 @@ ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.
 <!-- 15 Nov 2023 -->
 
 
-## Conditional Language Models
+<!-- ## Conditional Language Models -->
 
 
-## Instructions tuning 
+## Instructions Tuning 
 
 - **COLLIE: Systematic Construction of Constrained Text Generation Tasks** \
 *Shunyu Yao, Howard Chen, Austin W. Hanjie, Runzhe Yang, Karthik Narasimhan* \
