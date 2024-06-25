@@ -34,6 +34,21 @@ Arxiv 2024. [[Paper]](https://arxiv.org/pdf/2405.17039)
 ICML 2024. [[Paper]](https://arxiv.org/abs/2402.08679) [[Github]](https://github.com/yu-fangxu/cold-attack) 
 <!-- 13 Feb 2024  -->
 
+- **Controlled Text Generation for Large Language Model with Dynamic Attribute Graphs** \
+*Xun Liang, Hanyu Wang, Shichao Song, Mengting Hu, Xunzhi Wang, Zhiyu Li, Feiyu Xiong, Bo Tang* \
+ACL 2024. [[Ppaer]](https://arxiv.org/abs/2402.11218) [[Github]](https://github.com/iaar-shanghai/datg)
+
+- **Controlled Text Generation via Language Model Arithmetic** \
+*Jasper Dekoninck, Marc Fischer, Luca Beurer-Kellner, Martin Vechev* \
+ICLR 2024. [[Paper]](https://arxiv.org/abs/2311.14479) [[Github]](https://github.com/eth-sri/language-model-arithmetic)
+
+
+- **Guiding LLMs The Right Way: Fast, Non-Invasive Constrained Generation** \
+*Luca Beurer-Kellner, Marc Fischer, Martin Vechev* \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2403.06988) 
+<!-- similar as the above one from same time in ETH -->
+ 
+
 - **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**\
 *Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi*\
 NeurIPS 2022 [[Paper]](https://arxiv.org/pdf/2202.11705) [[Github]](https://github.com/qkaren/COLD_decoding) 
@@ -50,6 +65,11 @@ ICLR 2020 [[Paper]](https://arxiv.org/pdf/1912.02164) [[Github]](https://github.
 <!-- 3 Mar 2020 -->
 
 
+- **A Distributional Approach to Controlled Text Generation** \
+*Muhammad Khalifa, Hady Elsahar, Marc Dymetman* \
+ICLR 2021. [[Paper]](https://arxiv.org/abs/2012.11635) [[Github]](https://github.com/naver/gdc) 
+
+
 ## Tractable Probabilistic Models
 
 - **Tractable Control for Autoregressive Language Generation**\
@@ -61,12 +81,15 @@ ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.
 ## Conditional Language Models
 
 
-## Instructions + Fine-tuning 
+## Instructions tuning 
+
+- **COLLIE: Systematic Construction of Constrained Text Generation Tasks** \
+*Shunyu Yao, Howard Chen, Austin W. Hanjie, Runzhe Yang, Karthik Narasimhan* \
+ICLR 2024. [[Paper]](https://arxiv.org/abs/2307.08689) [[Github]](https://github.com/princeton-nlp/Collie)
 
 - **Controlled Text Generation with Natural Language Instructions** \
 *Wangchunshu Zhou, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell, Mrinmaya Sachan* \
 ICML 2023. [[Paper]](https://arxiv.org/abs/2304.14293) [[Github]](https://github.com/michaelzhouwang/instructctg) 
-
 
 
 ## Non-autoregressive Language Model
@@ -95,15 +118,19 @@ NAACL 2021. [[Paper]](https://arxiv.org/abs/2010.12884) [[Github]](https://githu
 
 ## Evaluation and Understanding 
 
+- **"We Need Structured Output": Towards User-centered Constraints on Large Language Model Output** \
+*Michael Xieyang Liu, Frederick Liu, Alexander J. Fiannaca, Terry Koo, Lucas Dixon, Michael Terry, Carrie J. Cai* \
+CHI EA 2024. [[Paper]](https://arxiv.org/abs/2404.07362)
+<!-- 10 Apr 2024  -->
+
 - **Evaluating, Understanding, and Improving Constrained Text Generation for Large Language Models** \
 *Xiang Chen, Xiaojun Wan* \
 Arxiv 2023. [[Paper]](https://arxiv.org/abs/2310.16343)
 <!-- 25 Oct 2023  -->
 
-- **"We Need Structured Output": Towards User-centered Constraints on Large Language Model Output** \
-*Michael Xieyang Liu, Frederick Liu, Alexander J. Fiannaca, Terry Koo, Lucas Dixon, Michael Terry, Carrie J. Cai* \
-CHI EA 2024. [[Paper]](https://arxiv.org/abs/2404.07362)
-<!-- 10 Apr 2024  -->
+- **Evaluating Large Language Models on Controlled Generation Tasks** \
+*Jiao Sun, Yufei Tian, Wangchunshu Zhou, Nan Xu, Qian Hu, Rahul Gupta, John Frederick Wieting, Nanyun Peng, Xuezhe Ma* \
+EMNLP 2023. [[Paper]](https://arxiv.org/abs/2310.14542) [[Github]](https://github.com/sunjiao123sun/llm-controlgen) 
 
 
 ## Application 
