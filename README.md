@@ -1,9 +1,16 @@
 # Awesome-LLM-controlled-constrained-generation
 Awesome-LLM-controlled-constrained-generation
 
+
+
+# Review 
+
+**Controllable Neural Text Generation** \
+*Lilian Weng* \
+Lil'Log, 2021. [[Link]](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/)
+
+
 # Papers
-
-
 
 ## Controlled Decoding & Generation
 
@@ -139,4 +146,20 @@ EMNLP 2023. [[Paper]](https://arxiv.org/abs/2310.14542) [[Github]](https://githu
 *Jillian Fisher, Ximing Lu, Jaehun Jung, Liwei Jiang, Zaid Harchaoui, Yejin Choi* \
 NAACL 2024. [[Paper]](https://arxiv.org/abs/2402.08761) [[Github]](https://github.com/jfisher52/jamdecoding)
 <!-- unsupervised  -->
+
+- **Semantically-Aware Constrained Decoding for Code Generation** \
+*Kristian Muñiz* \
+March 2024.  [[Link]](https://krismuniz.com/posts/constrained-decoding) 
+<!-- code generation  -->
+
+
+**Discrete Prompt Optimization via Constrained Generation for Zero-shot Re-ranker** \
+*Sukmin Cho, Soyeong Jeong, Jeongyeon Seo, Jong C. Park* \
+ACL 2023. [[Paper]](https://arxiv.org/abs/2305.13729) [[Github]](https://github.com/zomss/co-prompt)
+
+
+- **Synchromesh: Reliable code generation from pre-trained language models** \
+*Gabriel Poesia, Oleksandr Polozov, Vu Le, Ashish Tiwari, Gustavo Soares, Christopher Meek, Sumit Gulwani* \
+ICLR 2022. [[Paper]](https://arxiv.org/abs/2201.11227) [[Github]](https://github.com/kanishkg/synchromesh) 
+<!-- code generation  -->
  
