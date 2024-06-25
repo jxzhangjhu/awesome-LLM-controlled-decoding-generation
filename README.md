@@ -66,6 +66,11 @@ ICLR 2024. [[Paper]](https://arxiv.org/abs/2311.14479) [[Github]](https://github
 arXiv 2024. [[Paper]](https://arxiv.org/abs/2403.06988) 
 <!-- similar as the above one from same time in ETH -->
  
+- **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** \
+*Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg* \
+NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2306.03341) [[Github]](https://github.com/likenneth/honest_llama) 
+<!-- hallucination -->
+
 
 - **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**\
 *Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi*\
