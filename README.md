@@ -19,7 +19,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [Papers](#papers)
   - [Controlled Decoding](#controlled-decoding)
   - [Tractable Probabilistic Models](#tractable-probabilistic-models)
-  - [Instructions Tuning](#instruction-tuning)
+  - [Instruction Tuning](#instruction-tuning)
   - [Non-autoregressive Language Model](#Non-autoregressive-Language-Model)
   - [NeuroLogic Decoding](#NeuroLogic-Decoding)
   - [Evaluation and Understanding](#Evaluation-and-Understanding)
@@ -118,7 +118,7 @@ ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.
 <!-- ## Conditional Language Models -->
 
 
-## Instructions Tuning 
+## Instruction Tuning 
 
 - **COLLIE: Systematic Construction of Constrained Text Generation Tasks** \
 *Shunyu Yao, Howard Chen, Austin W. Hanjie, Runzhe Yang, Karthik Narasimhan* \
