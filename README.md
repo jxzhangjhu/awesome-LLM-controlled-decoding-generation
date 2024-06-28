@@ -34,6 +34,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 *Lilian Weng* \
 Lil'Log, 2021. [[Link]](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/)
 
+# Benchmark 
+
+- **Controllable Text Generation with Language Constraints** \
+*Howard Chen, Huihan Li, Danqi Chen, Karthik Narasimhan* \
+arXiv 2022. [[Paper]](https://arxiv.org/abs/2212.10466) [[Github]](https://github.com/princeton-nlp/Cognac) 
 
 # Papers
 
