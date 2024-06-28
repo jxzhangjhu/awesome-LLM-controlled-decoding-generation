@@ -50,6 +50,12 @@ arXiv 2022. [[Paper]](https://arxiv.org/abs/2212.10466) [[Github]](https://githu
 Arxiv 2024. [[Paper]](https://arxiv.org/pdf/2406.05954) 
 <!-- 11 June 2024 -->
 
+
+- **PaCE: Parsimonious Concept Engineering for Large Language Models** \
+*Jinqi Luo, Tianjiao Ding, Kwan Ho Ryan Chan, Darshan Thaker, Aditya Chattopadhyay, Chris Callison-Burch, René Vidal* \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.04331) [[Github]](https://github.com/peterljq/parsimonious-concept-engineering) 
+
+
 - **Controlled Decoding from Language Models**\
 *Sidharth Mudgal, Jong Lee, Harish Ganapathy, YaGuang Li, Tao Wang, Yanping Huang, Zhifeng Chen, Heng-Tze Cheng, Michael Collins, Trevor Strohman, Jilin Chen, Alex Beutel, Ahmad Beirami*\
 ICML 2024. [[Paper]](https://arxiv.org/pdf/2310.17022) 
@@ -132,6 +138,10 @@ ICLR 2024. [[Paper]](https://arxiv.org/abs/2307.08689) [[Github]](https://github
 - **Controlled Text Generation with Natural Language Instructions** \
 *Wangchunshu Zhou, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell, Mrinmaya Sachan* \
 ICML 2023. [[Paper]](https://arxiv.org/abs/2304.14293) [[Github]](https://github.com/michaelzhouwang/instructctg) 
+
+- **Toward Unified Controllable Text Generation via Regular Expression Instruction** \
+*Xin Zheng, Hongyu Lin, Xianpei Han, Le Sun* \
+IJCNLP-AACL 2023. [[Paper]](https://arxiv.org/abs/2309.10447) [[Github]](https://github.com/mrzhengxin/ctg-regex-instruction) 
 
 
 ## Non-autoregressive Language Model
