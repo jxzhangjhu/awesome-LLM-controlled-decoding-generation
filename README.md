@@ -96,6 +96,9 @@ arXiv 2024. [[Paper]](https://arxiv.org/abs/2403.06988)
 NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2306.03341) [[Github]](https://github.com/likenneth/honest_llama) 
 <!-- hallucination -->
 
+- **Controllable Text Generation with Neurally-Decomposed Oracle** \
+*Tao Meng, Sidi Lu, Nanyun Peng, Kai-Wei Chang* \
+NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2205.14219) [[Github]](https://github.com/mtsomethree/constrdecoding)
 
 - **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**\
 *Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi*\
