@@ -100,6 +100,16 @@ NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2306.03341) [[Github]](https://git
 *Tao Meng, Sidi Lu, Nanyun Peng, Kai-Wei Chang* \
 NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2205.14219) [[Github]](https://github.com/mtsomethree/constrdecoding)
 
+- **BOLT: Fast Energy-based Controlled Text Generation with Tunable Biases** \
+*Xin Liu, Muhammad Khalifa, Lu Wang* \
+ACL 2023. [[Paper]](https://arxiv.org/abs/2305.12018) [[Github]](https://github.com/launchnlp/bolt) 
+
+- **Controllable Text Generation with Neurally-Decomposed Oracle** \
+*Xin Liu, Muhammad Khalifa, Lu Wang* \
+NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2305.12018) [[Github]](https://github.com/launchnlp/bolt) 
+
+
+
 - **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**\
 *Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi*\
 NeurIPS 2022 [[Paper]](https://arxiv.org/pdf/2202.11705) [[Github]](https://github.com/qkaren/COLD_decoding) 
@@ -127,6 +137,16 @@ ICLR 2021. [[Paper]](https://arxiv.org/abs/2012.11635) [[Github]](https://github
 *Honghua Zhang, Meihua Dang, Nanyun Peng, Guy Van den Broeck*\
 ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.com/UCLA-StarAI/GeLaTo) 
 <!-- 15 Nov 2023 -->
+
+## Multi-aspect Controllabled Text Generation
+
+- **An Extensible Plug-and-Play Method for Multi-Aspect Controllable Text Generation** \ 
+*Xuancheng Huang, Zijun Liu, Peng Li, Tao Li, Maosong Sun, Yang Liu* \
+ACL 2023. [[Paper]](https://arxiv.org/abs/2212.09387) [[Github]](https://github.com/thunlp-mt/promptgating4mctg)
+
+- **A Distributional Lens for Multi-Aspect Controllable Text Generation** \
+*Yuxuan Gu, Xiaocheng Feng, Sicheng Ma, Lingyuan Zhang, Heng Gong, Bing Qin* \
+EMNLP 2022. [[Paper]](https://arxiv.org/abs/2210.02889) [[Github]](https://github.com/happygu0524/multicontrol)
 
 
 <!-- ## Conditional Language Models -->
