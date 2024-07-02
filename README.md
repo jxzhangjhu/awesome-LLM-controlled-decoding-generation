@@ -62,7 +62,7 @@ arXiv 2024. [[Paper]](https://arxiv.org/abs/2402.06147)
 
 - **Decoding-Time Language Model Alignment with Multiple Objectives** \
 *Ruizhe Shi, Yifang Chen, Yushi Hu, Alisa Liu, Hannaneh Hajishirzi, Noah A. Smith, Simon Du* \
-arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.18853) [[Github]](https://github.com/srzer/mod) \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.18853) [[Github]](https://github.com/srzer/mod) 
 
 - **Cascade Reward Sampling for Efficient Decoding-Time Alignment** \
 *Bolian Li, Yifan Wang, Ananth Grama, Ruqi Zhang* \
