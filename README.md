@@ -49,6 +49,29 @@ Jun 28, 2024. OpenAI. [[Paper]](https://arxiv.org/pdf/2407.00215) [[Link]](https
 
 # Papers
 
+## Alignment
+
+- **Decoding-time Realignment of Language Models** \
+*Tianlin Liu, Shangmin Guo, Leonardo Bianco, Daniele Calandriello, Quentin Berthet, Felipe Llinares, Jessica Hoffmann, Lucas Dixon, Michal Valko, Mathieu Blondel* \
+ICML 2024. [[Paper]](https://arxiv.org/abs/2402.02992) 
+<!-- [[Github]] -->
+
+- **DeAL: Decoding-time Alignment for Large Language Models** \
+*James Y. Huang, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchhoff, Dan Roth* \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2402.06147)
+
+- **Decoding-Time Language Model Alignment with Multiple Objectives** \
+*Ruizhe Shi, Yifang Chen, Yushi Hu, Alisa Liu, Hannaneh Hajishirzi, Noah A. Smith, Simon Du* \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.18853) [[Github]](https://github.com/srzer/mod) \
+
+- **Cascade Reward Sampling for Efficient Decoding-Time Alignment** \
+*Bolian Li, Yifan Wang, Ananth Grama, Ruqi Zhang* \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.16306) [[Github]](https://github.com/lblaoke/CARDS)
+
+
+
+
+
 ## Controlled Decoding
 
 
