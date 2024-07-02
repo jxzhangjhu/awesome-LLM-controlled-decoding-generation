@@ -40,6 +40,13 @@ Lil'Log, 2021. [[Link]](https://lilianweng.github.io/posts/2021-01-02-controllab
 *Howard Chen, Huihan Li, Danqi Chen, Karthik Narasimhan* \
 arXiv 2022. [[Paper]](https://arxiv.org/abs/2212.10466) [[Github]](https://github.com/princeton-nlp/Cognac) 
 
+# Technical Report
+
+- **LLM Critics Help Catch LLM Bugs** \
+*Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike* \
+Jun 28, 2024. OpenAI. [[Paper]](https://arxiv.org/pdf/2407.00215) [[Link]](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/?utm_source=www.dailyzaps.com&utm_medium=newsletter&utm_campaign=criticgpt-fixing-ai-with-ai)
+
+
 # Papers
 
 ## Controlled Decoding
@@ -109,27 +116,34 @@ ACL 2023. [[Paper]](https://arxiv.org/abs/2305.12018) [[Github]](https://github.
 NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2305.12018) [[Github]](https://github.com/launchnlp/bolt) 
 
 
-
 - **COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics**\
 *Lianhui Qin, Sean Welleck, Daniel Khashabi, Yejin Choi*\
 NeurIPS 2022 [[Paper]](https://arxiv.org/pdf/2202.11705) [[Github]](https://github.com/qkaren/COLD_decoding) 
 <!-- 13 Oct 2022 -->
+
+- **Gradient-Based Constrained Sampling from Language Models** \
+*Sachin Kumar, Biswajit Paria, Yulia Tsvetkov* \
+EMNLP 2022. [[Paper]](https://arxiv.org/abs/2205.12558) [[Github]](https://github.com/Sachin19/mucoco/tree/sampling)
+
 
 - **FUDGE: Controlled Text Generation With Future Discriminators**\
 *Kevin Yang, Dan Klein*\
 NAACL 2021 [[Paper]](https://arxiv.org/pdf/2202.11705) [[Github]](https://github.com/yangkevin2/naacl-2021-fudge-controlled-generation) 
 <!-- 15 Aug 2021 -->
 
+- **A Distributional Approach to Controlled Text Generation** \
+*Muhammad Khalifa, Hady Elsahar, Marc Dymetman* \
+ICLR 2021. [[Paper]](https://arxiv.org/abs/2012.11635) [[Github]](https://github.com/naver/gdc) 
+
 - **Plug and Play Language Models: A Simple Approach to Controlled Text Generation**\
 *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski, Rosanne Liu*\
 ICLR 2020 [[Paper]](https://arxiv.org/pdf/1912.02164) [[Github]](https://github.com/uber-research/PPLM) 
 <!-- 3 Mar 2020 -->
 
-
-- **A Distributional Approach to Controlled Text Generation** \
-*Muhammad Khalifa, Hady Elsahar, Marc Dymetman* \
-ICLR 2021. [[Paper]](https://arxiv.org/abs/2012.11635) [[Github]](https://github.com/naver/gdc) 
-
+- **Controlled Text Generation as Continuous Optimization with Multiple Constraints** \
+*Sachin Kumar, Eric Malmi, Aliaksei Severyn, Yulia Tsvetkov* \
+NeurIPS 2020. [[Paper]](https://arxiv.org/abs/2108.01850) [[Github]](https://github.com/Sachin19/mucoco)
+<!-- MUCOCO -->
 
 ## Tractable Probabilistic Models
 
@@ -150,6 +164,12 @@ EMNLP 2022. [[Paper]](https://arxiv.org/abs/2210.02889) [[Github]](https://githu
 
 
 <!-- ## Conditional Language Models -->
+
+## Reinforcement Learning
+
+- **Critic-Guided Decoding for Controlled Text Generation** \
+*Minbeom Kim, Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung* \
+ACL 2023. [[Paper]](https://arxiv.org/abs/2212.10938) [[Github]](https://github.com/minbeomkim/CriticControl)
 
 
 ## Instruction Tuning 
