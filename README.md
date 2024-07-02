@@ -49,7 +49,7 @@ Jun 28, 2024. OpenAI. [[Paper]](https://arxiv.org/pdf/2407.00215) [[Link]](https
 
 # Papers
 
-## Alignment
+## Decoding-time Alignment
 
 - **Decoding-time Realignment of Language Models** \
 *Tianlin Liu, Shangmin Guo, Leonardo Bianco, Daniele Calandriello, Quentin Berthet, Felipe Llinares, Jessica Hoffmann, Lucas Dixon, Michal Valko, Mathieu Blondel* \
@@ -68,7 +68,9 @@ arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.18853) [[Github]](https://githu
 *Bolian Li, Yifan Wang, Ananth Grama, Ruqi Zhang* \
 arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.16306) [[Github]](https://github.com/lblaoke/CARDS)
 
-
+- **Reward Steering with Evolutionary Heuristics for Decoding-time Alignment** \
+*Anonymous ACL submission* \
+arXiv 2024. [[Paper]](https://openreview.net/pdf?id=lBPk1LEq0b) 
 
 
 
