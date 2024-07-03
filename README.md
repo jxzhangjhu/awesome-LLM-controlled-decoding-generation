@@ -72,7 +72,7 @@ arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.16306) [[Github]](https://githu
 *Anonymous ACL submission* \
 arXiv 2024. [[Paper]](https://openreview.net/pdf?id=lBPk1LEq0b)
 
-<!-- Added papers discussed to mitigate hallucination during the inferecen, by leveraging data-free representation editing or decoding -->
+<!-- Added papers discussed to mitigate hallucination during the inference, by leveraging data-free representation editing or decoding -->
 
 - **DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS**\
 *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*\
@@ -80,11 +80,11 @@ ICLR 2024. [[Paper]](Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James G
 
 - **Trusting Your Evidence: Hallucinate Less with Context-aware Decoding**\
 *Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Scott Wen-tau Yih*\
-NAACL 2024 [[paper]](https://arxiv.org/pdf/2305.14739) [[Github]](https://github.com/hongshi97/CAD)
+NAACL 2024. [[paper]](https://arxiv.org/pdf/2305.14739) [[Github]](https://github.com/hongshi97/CAD)
 
 - **Mutual Information Alleviates Hallucinations in Abstractive Summarization**\
 *Liam van der Poel, Ryan Cotterell, Clara Meister*\
-EMNLP 2022 [[paper]](https://arxiv.org/pdf/2210.13210) [[Github]](https://github.com/VanderpoelLiam/CPMI)
+EMNLP 2022. [[paper]](https://arxiv.org/pdf/2210.13210) [[Github]](https://github.com/VanderpoelLiam/CPMI)
 
 
 
