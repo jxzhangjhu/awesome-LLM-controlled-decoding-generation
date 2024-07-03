@@ -8,9 +8,9 @@
 
 
 
-This repo aims to record advanced papers of controllable and constrained generation in LLMs.
+This repo aims to record advanced papers of controllable and decoding generation in LLMs.
 
-We strongly encourage the researchers that want to promote their fantastic work to this area to make pull request to update their paper's information!
+We strongly encourage the researchers who want to promote their fantastic work in this area to make pull requests to update their paper's information!
 
 
 ## Contents
