@@ -76,15 +76,15 @@ arXiv 2024. [[Paper]](https://openreview.net/pdf?id=lBPk1LEq0b)
 
 - **DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS**\
 *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*\
-ICLR 2024. [[Paper]](Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He) [[Github]](https://github.com/voidism/DoLa)
+ICLR 2024. [[Paper]](https://arxiv.org/abs/2309.03883) [[Github]](https://github.com/voidism/DoLa)
 
 - **Trusting Your Evidence: Hallucinate Less with Context-aware Decoding**\
 *Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Scott Wen-tau Yih*\
-NAACL 2024. [[paper]](https://arxiv.org/pdf/2305.14739) [[Github]](https://github.com/hongshi97/CAD)
+NAACL 2024. [[Paper]](https://arxiv.org/pdf/2305.14739) [[Github]](https://github.com/hongshi97/CAD)
 
 - **Mutual Information Alleviates Hallucinations in Abstractive Summarization**\
 *Liam van der Poel, Ryan Cotterell, Clara Meister*\
-EMNLP 2022. [[paper]](https://arxiv.org/pdf/2210.13210) [[Github]](https://github.com/VanderpoelLiam/CPMI)
+EMNLP 2022. [[Paper]](https://arxiv.org/pdf/2210.13210) [[Github]](https://github.com/VanderpoelLiam/CPMI)
 
 
 
