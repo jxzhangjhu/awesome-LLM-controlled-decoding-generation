@@ -28,11 +28,20 @@ We strongly encourage the researchers who want to promote their fantastic work i
 
 --- 
 
-# Review 
+# Review & Survey 
 
 - **Controllable Neural Text Generation** \
 *Lilian Weng* \
 Lil'Log, 2021. [[Link]](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/)
+
+- **A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models** \
+*Hanqing Zhang, Haolin Song, Shaoyu Li, Ming Zhou, Dawei Song* \
+ACM Computing Surveys, 2023. [[Paper]](https://arxiv.org/abs/2201.05337)
+
+- **From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models** \
+*Sean Welleck, Amanda Bertsch, Matthew Finlayson, Hailey Schoelkopf, Alex Xie, Graham Neubig, Ilia Kulikov, Zaid Harchaoui* \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.16838)
+
 
 # Benchmark 
 
