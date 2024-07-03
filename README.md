@@ -1,4 +1,4 @@
-# Awesome-LLM-Controlled-Constrained-Generation
+# Awesome-LLM-Controlled-Decoding-Generation
 <!-- Awesome-LLM-controlled-constrained-generation -->
 
 \
