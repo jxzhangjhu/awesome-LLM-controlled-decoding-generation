@@ -17,6 +17,7 @@ We strongly encourage the researchers who want to promote their fantastic work i
 
 - [Review](#review)
 - [Papers](#papers)
+  -  [Decoding-time Alignment] (#Decoding-time Alignment)
   - [Controlled Decoding](#controlled-decoding)
   - [Tractable Probabilistic Models](#tractable-probabilistic-models)
   - [Instruction Tuning](#instruction-tuning)
