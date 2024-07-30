@@ -210,6 +210,14 @@ ACL 2023. [[Paper]](https://arxiv.org/abs/2212.09387) [[Github]](https://github.
 *Yuxuan Gu, Xiaocheng Feng, Sicheng Ma, Lingyuan Zhang, Heng Gong, Bing Qin* \
 EMNLP 2022. [[Paper]](https://arxiv.org/abs/2210.02889) [[Github]](https://github.com/happygu0524/multicontrol)
 
+## Hallucination Mitigation
+
+<!-- ## Papers focusing on the hallucination mitigation. Methods unlimited: Prompt optimization, Alignment, Controlled Decoding, Representation Editing -->
+
+- **Teaching Language Models to Hallucinate Less with Synthetic Tasks** \
+*Erik Jones, Hamid Palangi, Clarisse Simões, Varun Chandrasekaran, Subhabrata Mukherjee, Arindam Mitra, Ahmed Awadallah, Ece Kamar* \
+ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.06827)
+
 
 <!-- ## Conditional Language Models -->
 
