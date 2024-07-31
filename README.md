@@ -87,6 +87,17 @@ arXiv 2024. [[Paper]](https://openreview.net/pdf?id=lBPk1LEq0b)
 - **DOLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS**\
 *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*\
 ICLR 2024. [[Paper]](https://arxiv.org/abs/2309.03883) [[Github]](https://github.com/voidism/DoLa)
+ 
+- **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** \
+*Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg* \
+NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2306.03341) [[Github]](https://github.com/likenneth/honest_llama) 
+<!-- hallucination -->
+
+ 
+- **TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space** \
+*Shaolei Zhang, Tian Yu, Yang Feng* \
+ACL 2024. [[Paper]](https://arxiv.org/pdf/2402.17811v2) [[Github]](https://ictnlp.github.io/TruthX-site/) 
+<!-- Following up work of ITI and currently the SOTA on TruthfulQA as of July 2024 -->
 
 - **Trusting Your Evidence: Hallucinate Less with Context-aware Decoding**\
 *Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Scott Wen-tau Yih*\
@@ -146,11 +157,6 @@ ICLR 2024. [[Paper]](https://arxiv.org/abs/2311.14479) [[Github]](https://github
 *Luca Beurer-Kellner, Marc Fischer, Martin Vechev* \
 arXiv 2024. [[Paper]](https://arxiv.org/abs/2403.06988) 
 <!-- similar as the above one from same time in ETH -->
- 
-- **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** \
-*Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg* \
-NeurIPS 2023. [[Paper]](https://arxiv.org/abs/2306.03341) [[Github]](https://github.com/likenneth/honest_llama) 
-<!-- hallucination -->
 
 - **Controllable Text Generation with Neurally-Decomposed Oracle** \
 *Tao Meng, Sidi Lu, Nanyun Peng, Kai-Wei Chang* \
