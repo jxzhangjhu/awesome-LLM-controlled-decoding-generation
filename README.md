@@ -219,6 +219,11 @@ EMNLP 2022. [[Paper]](https://arxiv.org/abs/2210.02889) [[Github]](https://githu
 *Erik Jones, Hamid Palangi, Clarisse Simões, Varun Chandrasekaran, Subhabrata Mukherjee, Arindam Mitra, Ahmed Awadallah, Ece Kamar* \
 ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.06827)
 
+- **Knowledge Overshadowing Causes Amalgamated Hallucination in Large Language Models** \
+*Yuji Zhang, Sha Li, Jiateng Liu, Pengfei Yu, Yi R. Fung, Jing Li, Manling Li, Heng Ji* \
+arXiv 2024. [[Paper]](https://arxiv.org/abs/2407.08039) 
+
+
 
 <!-- ## Conditional Language Models -->
 
