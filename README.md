@@ -100,7 +100,7 @@ ACL 2024. [[Paper]](https://arxiv.org/pdf/2402.17811v2) [[Github]](https://ictnl
 <!-- Following up work of ITI and currently the SOTA on TruthfulQA as of July 2024 -->
 
 - **Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps** \
-*Yung-Sung Chuang, Linlu Qiu, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, James Glass*
+*Yung-Sung Chuang, Linlu Qiu, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, James Glass* \
 Arxiv 2024. [[Paper]](https://arxiv.org/abs/2407.07071) [[Github]](https://github.com/voidism/Lookback-Lens)
 <!-- Targetting on contextual hallucination -->
 
