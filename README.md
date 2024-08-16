@@ -120,9 +120,9 @@ NAACL 2024. [[Paper]](https://arxiv.org/pdf/2305.14739) [[Github]](https://githu
 *Liam van der Poel, Ryan Cotterell, Clara Meister*\
 EMNLP 2022. [[Paper]](https://arxiv.org/pdf/2210.13210) [[Github]](https://github.com/VanderpoelLiam/CPMI)
 
-- **Locating and Editing Factual Associations in GPT**
-- *Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov*
-- NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2202.05262) [[Website]](https://rome.baulab.info/)
+- **Locating and Editing Factual Associations in GPT**\
+*Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov*\
+NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2202.05262) [[Website]](https://rome.baulab.info/)
 
 
 
@@ -226,8 +226,8 @@ ICML 2023 [[Paper]](https://arxiv.org/pdf/2304.07438) [[Github]](https://github.
 
 ## Multi-aspect Controllabled Text Generation
 
-- **An Extensible Plug-and-Play Method for Multi-Aspect Controllable Text Generation** \ 
-*Xuancheng Huang, Zijun Liu, Peng Li, Tao Li, Maosong Sun, Yang Liu* \
+- **An Extensible Plug-and-Play Method for Multi-Aspect Controllable Text Generation**
+- *Xuancheng Huang, Zijun Liu, Peng Li, Tao Li, Maosong Sun, Yang Liu* \
 ACL 2023. [[Paper]](https://arxiv.org/abs/2212.09387) [[Github]](https://github.com/thunlp-mt/promptgating4mctg)
 
 - **A Distributional Lens for Multi-Aspect Controllable Text Generation** \
