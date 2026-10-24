@@ -315,6 +315,11 @@ EMNLP 2023. [[Paper]](https://arxiv.org/abs/2310.14542) [[Github]](https://githu
 
 ## Application 
 
+- **Translate-and-Revise: Boosting Large Language Models for Constrained Translation** \
+*Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, Jingbo Zhu* \
+CCL 2024. [[Paper]](https://arxiv.org/abs/2407.13164)
+<!-- machine translation  -->
+
 - **JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models** \
 *Jillian Fisher, Ximing Lu, Jaehun Jung, Liwei Jiang, Zaid Harchaoui, Yejin Choi* \
 NAACL 2024. [[Paper]](https://arxiv.org/abs/2402.08761) [[Github]](https://github.com/jfisher52/jamdecoding)
