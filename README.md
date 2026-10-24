@@ -50,6 +50,10 @@ arXiv 2024. [[Paper]](https://arxiv.org/abs/2406.16838)
 *Howard Chen, Huihan Li, Danqi Chen, Karthik Narasimhan* \
 arXiv 2022. [[Paper]](https://arxiv.org/abs/2212.10466) [[Github]](https://github.com/princeton-nlp/Cognac) 
 
+- **StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs** \
+*Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen* \
+TMLR, 2026. [[Paper]](https://openreview.net/forum?id=buDwV7LUA7) [[Github]](https://github.com/TIGER-AI-Lab/StructEval) [[Project]](https://tiger-ai-lab.github.io/StructEval/) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/StructEval)
+
 # Technical Report
 
 - **LLM Critics Help Catch LLM Bugs** \
