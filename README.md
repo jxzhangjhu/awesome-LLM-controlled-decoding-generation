@@ -246,6 +246,14 @@ ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.06827)
 *Yuji Zhang, Sha Li, Jiateng Liu, Pengfei Yu, Yi R. Fung, Jing Li, Manling Li, Heng Ji* \
 arXiv 2024. [[Paper]](https://arxiv.org/abs/2407.08039) 
 
+- **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** \
+*Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong* \
+NeurIPS 2025. [[Paper]](https://arxiv.org/abs/2502.15543) [[Github]](https://github.com/OpenBMB/ParamMute)
+
+- **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** \
+*Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun* \
+arXiv 2026. [[Paper]](https://arxiv.org/abs/2606.27786) [[Github]](https://github.com/OpenBMB/SPARK)
+
 
 
 <!-- ## Conditional Language Models -->
@@ -277,6 +285,10 @@ IJCNLP-AACL 2023. [[Paper]](https://arxiv.org/abs/2309.10447) [[Github]](https:/
 - **Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto** \
 *Diffusion-LM Improves Controllable Text Generation* \
 NeurIPS 2022. [[Paper]](https://arxiv.org/abs/2205.14217) [[Github]](https://github.com/xiangli1999/diffusion-lm) 
+
+- **Empirical Analysis of Decoding Biases in Masked Diffusion Models** \
+*Pengcheng Huang, Tianming Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen, Maosong Sun* \
+ACL 2026. [[Paper]](https://aclanthology.org/2026.acl-long.311/) [[Github]](https://github.com/NEUIR/Uncode)
 
 
 
